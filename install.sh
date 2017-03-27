@@ -75,4 +75,3 @@ chmod +x /usr/local/bin/ssr
 
 
 echo '安装完成！输入 ssr 即可使用本程序~'
-echo '欢迎加QQ群：277717865 讨论交流哦~'
